@@ -1,0 +1,13 @@
+﻿  sample.cpp
+c:\users\bradford\documents\450\assignment 5\sample.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(577): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(579): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(583): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bradford\documents\450\assignment 5\sample.cpp(1031): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Bradford\Documents\450\Assignment 5\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
